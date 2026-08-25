@@ -2,7 +2,7 @@
 set -eo pipefail
 
 # libxml2-2.7.8.sh by Naomi Peori (naomi@peori.ca)
-LIBXML2="libxml2-2.7.8"
+LIBXML2="libxml2-2.9.12"
 
 ## Source util functions
 source ../utils/utils.sh
